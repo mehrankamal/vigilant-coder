@@ -1,37 +1,6 @@
-/*
-// Sample code to perform I/O:
-#include <stdio.h>
+//Problem:      
+//Link:         
 
-int main(){
-	int num;
-	scanf("%d", &num);              			// Reading input from STDIN
-	printf("Input number is %d.\n", num);       // Writing output to STDOUT
-}
-
-// Warning: Printing unwanted or ill-formatted data to output will cause the test cases to fail
-*/
-
-/*
-You have been given a String S. You need to find and print whether this string is a palindrome or not. If yes, print "YES" (without quotes), else print "NO" (without quotes).
-
-Input Format
-The first and only line of input contains the String S. The String shall consist of lowercase English alphabets only.
-
-Output Format
-Print the required answer on a single line.
-
-Constraints 
-
-Note
-String S consists of lowercase English Alphabets only.
-
-SAMPLE INPUT 
-aba
-SAMPLE OUTPUT 
-YES
-*/
-
-// Write your code here
 #include<stdio.h>
 #include<string.h>
 
