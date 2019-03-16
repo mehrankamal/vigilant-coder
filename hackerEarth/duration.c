@@ -1,5 +1,5 @@
-//Problem:      
-//Link:         
+//Problem:      Duration
+//Link:         https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/duration/
 
 #include<stdio.h>
 #include<stdlib.h>

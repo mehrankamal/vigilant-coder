@@ -1,5 +1,5 @@
-//Problem:      
-//Link:         
+//Problem:      Toggle String
+//Link:         https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/modify-the-string/
 
 #include<stdio.h>
 #include<ctype.h>

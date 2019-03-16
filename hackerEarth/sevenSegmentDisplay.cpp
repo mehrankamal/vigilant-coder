@@ -1,5 +1,5 @@
-//Problem:      
-//Link:         
+//Problem:      Seven-Segment Display
+//Link:         https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/seven-segment-display-nov-easy-e7f87ce0/submissions/
 
 #include<iostream>
 #include<cmath>
@@ -9,7 +9,7 @@ int codes[10] = {6, 2, 5, 5, 4, 5, 6, 3, 7, 6};
 
 using namespace std;
 
-long getMatch(char num[]);
+long getMatch(string );
 void getHighest(const int matches);
 
 int main()
@@ -17,7 +17,7 @@ int main()
     int T;
     cin >> T;
     
-    char num[101];
+    string num;
     long matchSticks;
 
     for(int i = 0; i < T; i++)
@@ -29,12 +29,12 @@ int main()
     return 0;
 }
 
-long getMatch(char num[])
+long getMatch(string num)
 {
     int count = 0;
-    int len  = strlen(num);
+    int len  = num.length();
 
-    if (num[0] == '0')
+    if (num == "0")
         return codes[num[0] - '0'];
 
     for(int i = 0; i < len; i++)
@@ -48,23 +48,39 @@ long getMatch(char num[])
 void getHighest(int matches)
 {
     unsigned int digits = (matches/2);
-    char result[digits+1];
-    cout << digits << endl;
+    string result;
+ //   cout << digits << endl;
 
-    for(int i=0; i<digits; i++)
+    if(matches%2==0)
     {
-        result[i] = '1';
-        matches -= 2;
+        for(int i=0; i<digits; i++)
+            cout << "1";
+        cout << endl;
     }
-
-    result[digits] = '\0';
-
-    if (matches == 0)
-        cout << result << endl;
-
-    if (matches == 1)
+    else
     {
-        result[0] = '7';
-        cout << result << endl;
+        cout << "7";
+        for(int i=1; i<digits; i++)
+            cout << "1";
+        cout << endl;
+
     }
+    
+
+    // for(int i=0; i<digits; i++)
+    // {
+    //     result[i] = '1';
+    //     matches -= 2;
+    // }
+
+    // result[digits] = '\0';
+
+    // if (matches == 0)
+    //     cout << result << endl;
+
+    // if (matches == 1)
+    // {
+    //     result[0] = '7';
+    //     cout << result << endl;
+    // }
 }

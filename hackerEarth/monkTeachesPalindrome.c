@@ -1,5 +1,5 @@
-//Problem:      
-//Link:         
+//Problem:      Monk Teaches Palindrome
+//Link:         https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/monk-teaches-palindrome/
 
 #include<stdio.h>
 #include<stdlib.h>

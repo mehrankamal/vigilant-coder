@@ -1,5 +1,5 @@
-//Problem:      
-//Link:         
+//Problem:      e-maze-in
+//Link:         https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/e-maze-in-1aa4e2ac/
 
 #include<stdio.h>
 #include<ctype.h>

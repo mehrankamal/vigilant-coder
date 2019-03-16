@@ -1,5 +1,5 @@
-//Problem:      
-//Link:         
+//Problem:      Goki and his breakup
+//Link:         https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/tds-and-his-breakup/
 
 #include<stdio.h>
 

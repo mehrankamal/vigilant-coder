@@ -1,5 +1,5 @@
-//Problem:      
-//Link:         
+//Problem:      Monk and Welcome Problem
+//Link:         https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/monk-and-welcome-problem/
 
 #include<stdio.h>
 #include<stdlib.h>

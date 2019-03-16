@@ -1,5 +1,5 @@
-//Problem:      
-//Link:         
+//Problem:      Ladderophilia
+//Link:         https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/ladderophilia/
 
 #include<stdio.h>
 int main()

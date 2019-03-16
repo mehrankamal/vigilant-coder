@@ -1,5 +1,5 @@
-//Problem:      
-//Link:         
+//Problem:      Roy and Profile Picture
+//Link:         https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/roy-and-profile-picture/
 
 #include<stdio.h>
 #include<ctype.h>
