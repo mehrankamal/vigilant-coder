@@ -1,9 +1,7 @@
 // Problem:     Gravity Flip
 // Link:        https://codeforces.com/problemset/problem/405/A
 
-#include<iostream>
-#include<vector>
-#include<algorithm>
+#include<bits/stdc++.h>
 
 using namespace std;
 
