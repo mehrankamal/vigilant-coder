@@ -1,3 +1,6 @@
+//Problem:          Hulk
+//Problem Link:     https://codeforces.com/problemset/problem/705/A
+
 #include<bits/stdc++.h>
 
 using namespace std;
