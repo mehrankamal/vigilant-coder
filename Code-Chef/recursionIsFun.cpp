@@ -1,5 +1,5 @@
 //Problem:          Recursion is Fun!
- //Problem Link:    https://www.codechef.com/CAD32018/problems/RECSTR/
+ //Problem Link:    https://www.codechef.com/practice/problems/RECSTR/
 
 #include<bits/stdc++.h>
 
