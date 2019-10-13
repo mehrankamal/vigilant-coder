@@ -1,5 +1,5 @@
-//Problem:          
-//Problem Link:     
+//Problem:          Love Triangle
+//Problem Link:     https://codeforces.com/problemset/problem/939/A
 
 #include<bits/stdc++.h>
 #define vi vector<int>
