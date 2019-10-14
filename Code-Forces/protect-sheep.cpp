@@ -1,5 +1,5 @@
-//Problem:          
-//Problem Link:     
+//Problem:          Protect Sheep
+//Problem Link:     https://codeforces.com/problemset/problem/948/A?locale=en
 
 #include<bits/stdc++.h>
 #define vi vector<int>
