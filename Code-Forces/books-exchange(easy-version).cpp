@@ -1,5 +1,5 @@
-//Problem:          
-//Problem Link:     
+//Problem:          Books Exchange (easy version)
+//Problem Link:     https://codeforces.com/contest/1249/problem/B1
 
 #include<bits/stdc++.h>
 #define vi vector<int>
