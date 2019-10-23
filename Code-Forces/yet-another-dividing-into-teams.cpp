@@ -1,5 +1,5 @@
-//Problem:          
-//Problem Link:     
+//Problem:          Dividing another into teams
+//Problem Link:     https://codeforces.com/contest/1249/problem/A
 
 #include<bits/stdc++.h>
 #define vi vector<int>
