@@ -1,5 +1,5 @@
-//Problem:          
-//Problem Link:     
+//Problem:          k-rounding
+//Problem Link:     https://codeforces.com/problemset/problem/858/A
 
 #include<bits/stdc++.h>
 #define vi vector<int>
